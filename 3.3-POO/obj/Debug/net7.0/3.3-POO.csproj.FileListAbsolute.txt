@@ -1,0 +1,14 @@
+D:\TestesBNE3\3.3-POO\bin\Debug\net7.0\3.3-POO.exe
+D:\TestesBNE3\3.3-POO\bin\Debug\net7.0\3.3-POO.deps.json
+D:\TestesBNE3\3.3-POO\bin\Debug\net7.0\3.3-POO.runtimeconfig.json
+D:\TestesBNE3\3.3-POO\bin\Debug\net7.0\3.3-POO.dll
+D:\TestesBNE3\3.3-POO\bin\Debug\net7.0\3.3-POO.pdb
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.AssemblyInfoInputs.cache
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.AssemblyInfo.cs
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.csproj.CoreCompileInputs.cache
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.dll
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\refint\3.3-POO.dll
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.pdb
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\3.3-POO.genruntimeconfig.cache
+D:\TestesBNE3\3.3-POO\obj\Debug\net7.0\ref\3.3-POO.dll
